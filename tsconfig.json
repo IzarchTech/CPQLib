@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "declarationDir": "./dist",
+    "module": "CommonJS",
+    "noImplicitAny": true,
+    "lib": ["ES2017", "ES6", "DOM"],
+    "outDir": "./dist",
+    "target": "es5",
+    "moduleResolution": "Node",
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "dist"]
+}

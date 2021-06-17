@@ -1,0 +1,26 @@
+{
+  "name": "cpqlib",
+  "version": "0.0.1",
+  "description": "Civil Quantities Project Library",
+  "main": "./src/index.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IzarchTech/cpqlib"
+  },
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "quantities",
+    "civil",
+    "civil engineering",
+    "project",
+    "civil",
+    "project",
+    "civil engineering project",
+    "estimation"
+  ],
+  "author": "Chukwunwike Udezue",
+  "license": "MIT"
+}
