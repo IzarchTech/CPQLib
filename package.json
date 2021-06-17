@@ -5,7 +5,7 @@
   "main": "./src/index.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/IzarchTech/cpqlib"
+    "url": "https://github.com/IzarchTech/CPQLib"
   },
   "scripts": {
     "build": "tsc",
