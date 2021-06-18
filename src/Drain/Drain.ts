@@ -77,7 +77,7 @@ export class Drain implements IDrain {
     return this.getExcavationDepth() * this.getExcavationWidth() * this.Span;
   }
 
-    getVolumeofBlinding(): number {
-        return this.getExcavationWidth() * this.BlindingThickness * this.Span;
-    }
+  getVolumeofBlinding(): number {
+    return this.getExcavationWidth() * this.BlindingThickness * this.Span;
+  }
 }
